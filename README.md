@@ -10,7 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2013<br>📚 I'm currently learning C#, Linux<br>🎯 Goals: become a good DevOps Engineer</p>
 
 ###
 
