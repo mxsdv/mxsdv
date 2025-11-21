@@ -5,7 +5,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mxsdv](https://www.linkedin.com/in/mxsdv)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
